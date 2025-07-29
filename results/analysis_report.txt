@@ -1,0 +1,40 @@
+
+    ============= RELATÓRIO DE ANÁLISE =============
+    | Métrica                     | Valor        |
+    |-----------------------------|--------------|
+    | Seed ótimo                  | 21  |
+    | Diferença média no parâmetro| 0.0608|
+    | NRMSE (frações de ciclo)    | 1.069824 |
+    | Correlação de Frequência    | 0.026179 |
+    | Média r_real                | 0.7975 |
+    | Média r_sim                 | 0.7367 |
+
+    === Parâmetros de Inferência Ótimos ===
+    pw = 0.100
+    window_size = 175
+    step_size = 15
+
+    === Resumo dos Parâmetros Inferidos ===
+        Oscillator Parameter True Value  Inferred Mean  Inferred Std  Significância
+0            1        ω1        N/A         0.0145        0.0286           0.51
+1            1       A11        N/A        -0.0058        0.0387           0.15
+2            1       A12        N/A        -0.0013        0.0250           0.05
+3            1       A13        N/A         0.0042        0.0245           0.17
+4            1       B11        N/A         0.0000        0.0000           0.00
+5            1       B12        N/A         0.0151        0.0455           0.33
+6            1       B13        N/A         0.0295        0.0500           0.59
+7            2        ω2        N/A         0.0092        0.0657           0.14
+8            2       A21        N/A        -0.0044        0.0392           0.11
+9            2       A22        N/A        -0.0004        0.0315           0.01
+10           2       A23        N/A         0.0037        0.0399           0.09
+11           2       B21        N/A         0.0179        0.0840           0.21
+12           2       B22        N/A         0.0000        0.0000           0.00
+13           2       B23        N/A         0.0089        0.0861           0.10
+14           3        ω3        N/A         0.0233        0.0353           0.66
+15           3       A31        N/A        -0.0014        0.0210           0.07
+16           3       A32        N/A         0.0006        0.0202           0.03
+17           3       A33        N/A        -0.0001        0.0151           0.01
+18           3       B31        N/A         0.0084        0.0409           0.20
+19           3       B32        N/A        -0.0076        0.0377           0.20
+20           3       B33        N/A         0.0000        0.0000           0.00
+    
